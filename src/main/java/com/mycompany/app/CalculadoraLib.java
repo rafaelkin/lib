@@ -7,8 +7,8 @@ public class CalculadoraLib {
 	static Logger log4j = Logger.getLogger("test");
 	
 	public int soma(int a, int b) {
-		log4j.warn("Low fuel level.");
-		return a + b;
+		log4j.warn("wat?");
+		return a - b;
 	}
 
 
